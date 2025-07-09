@@ -1,6 +1,8 @@
 @echo off
+
 mode con:cols=50 lines=11
-title RESET NETWORK
+title MY_RESET_NET_LOOP
+
 
 :loop
 :num
